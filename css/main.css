@@ -1,6 +1,30 @@
 * {
     box-sizing: border-box;
 }
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+/* Navigation à droite */
+nav {
+    display: flex;
+    gap: 20px; /* Espacement entre les liens */
+}
+
+/* Couleur et style des liens */
+nav a {
+    color: #2C5F7C; /* Bleu - changez selon votre préférence */
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #A63A3A; /* Rouge au survol */
+}
 
 body {
     font-family: Arial, sans-serif;
