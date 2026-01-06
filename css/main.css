@@ -8,7 +8,10 @@ body {
     font-size: 1.2rem;
     line-height: 1.4;
     color: darkblue;
-    background-color: #d2b48c ;
+    background-color: #d2b48c;
+}
+h1 {
+    color: #1e7fcb;
 }
 
 img {
