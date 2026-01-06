@@ -17,6 +17,10 @@ h2 {
     color:#4682b4;
 }   
 
+footer {
+    color: #1e7fcb;
+}
+
 img {
     max-width: 100%;
     
@@ -24,7 +28,7 @@ img {
 }
 
 a {
-    color: deeppink;
+    color: #00cbfa;
     text-decoration: none;
 }
 
