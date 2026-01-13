@@ -131,12 +131,12 @@ Actuellement :
 ### 2️⃣ Liens du menu non fonctionnels
 
 Dans le menu :
-``` <a href="#compétences">
+```
+<a href="#compétences">
 ```
 
 Mais l’`id` réel est :
 ```
-
 <section id="competences">
 ```
 
@@ -155,7 +155,6 @@ Idem pour `Parcours professionnel`
 
 Exemple problématique :
 ```
-
 <ul><p>...</p></ul>
 ```
 
@@ -169,6 +168,5 @@ Exemple problématique :
 
 Actuellement :
 ```
-
 </p
 ```
