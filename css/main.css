@@ -27,7 +27,7 @@ nav a:hover {
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: DM, sans-serif;
     font-weight: 400;
     font-size: 1.2rem;
     line-height: 1.4;
@@ -49,8 +49,6 @@ footer {
 
 img {
     max-width: 100%;
-    
-    width: auto;
 }
 
 a {
