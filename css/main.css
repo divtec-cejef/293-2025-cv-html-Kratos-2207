@@ -61,3 +61,16 @@ a {
 a:hover {
     color: darkmagenta;
 }
+
+section {
+border: 1px solid #2c5f7c;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+font-size: 32px;
+}
+
+section {
+font-size: 1.1em;
+}
