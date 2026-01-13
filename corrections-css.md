@@ -115,7 +115,8 @@ height: auto;
 ### 1️⃣ `width` et `height` dans le HTML
 
 Actuellement :
-``` <img src="./img/logo.png" width="300" height="200">
+```
+<img src="./img/logo.png" width="300" height="200">
 ```
 
 À corriger :
